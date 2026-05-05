@@ -1,0 +1,24 @@
+{
+  "name": "cyberpunk_bg_day_anim_v2",
+  "frames": 6,
+  "fps_recommended": 7,
+  "frame_duration_ms": 140,
+  "size": {
+    "width": 1536,
+    "height": 1024
+  },
+  "files": [
+    "cyberpunk_bg_day_anim_v2_01.png",
+    "cyberpunk_bg_day_anim_v2_02.png",
+    "cyberpunk_bg_day_anim_v2_03.png",
+    "cyberpunk_bg_day_anim_v2_04.png",
+    "cyberpunk_bg_day_anim_v2_05.png",
+    "cyberpunk_bg_day_anim_v2_06.png"
+  ],
+  "spritesheet": "cyberpunk_bg_day_anim_v2_spritesheet_6f.png",
+  "preview_gif": "cyberpunk_bg_day_anim_v2_preview.gif",
+  "notes": [
+    "Buildings are static",
+    "Animated elements: billboards, water shimmer, smoke overlays, palm movement"
+  ]
+}
