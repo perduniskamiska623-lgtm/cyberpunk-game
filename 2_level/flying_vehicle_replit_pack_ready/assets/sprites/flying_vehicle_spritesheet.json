@@ -1,0 +1,75 @@
+{
+  "frames": {
+    "fly_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 224
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 224
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 224
+      }
+    },
+    "fly_1": {
+      "frame": {
+        "x": 498,
+        "y": 0,
+        "w": 498,
+        "h": 224
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 224
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 224
+      }
+    },
+    "fly_2": {
+      "frame": {
+        "x": 996,
+        "y": 0,
+        "w": 498,
+        "h": 224
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 224
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 224
+      }
+    }
+  },
+  "meta": {
+    "app": "OpenAI",
+    "version": "1.0",
+    "image": "flying_vehicle_spritesheet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1494,
+      "h": 224
+    },
+    "scale": "1"
+  }
+}

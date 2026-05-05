@@ -1,0 +1,66 @@
+{
+  "locationName": "cyber_city",
+  "type": "side_scroll_location",
+  "direction": "left_to_right",
+  "segmentCount": 6,
+  "segmentWidth": 2048,
+  "segmentHeight": 1358,
+  "totalWidth": 12288,
+  "totalHeight": 1358,
+  "segments": [
+    {
+      "id": "city_01",
+      "file": "city_01.png",
+      "index": 0,
+      "x": 0,
+      "y": 0,
+      "width": 2048,
+      "height": 1358
+    },
+    {
+      "id": "city_02",
+      "file": "city_02.png",
+      "index": 1,
+      "x": 2048,
+      "y": 0,
+      "width": 2048,
+      "height": 1358
+    },
+    {
+      "id": "city_03",
+      "file": "city_03.png",
+      "index": 2,
+      "x": 4096,
+      "y": 0,
+      "width": 2048,
+      "height": 1358
+    },
+    {
+      "id": "city_04",
+      "file": "city_04.png",
+      "index": 3,
+      "x": 6144,
+      "y": 0,
+      "width": 2048,
+      "height": 1358
+    },
+    {
+      "id": "city_05",
+      "file": "city_05.png",
+      "index": 4,
+      "x": 8192,
+      "y": 0,
+      "width": 2048,
+      "height": 1358
+    },
+    {
+      "id": "city_06",
+      "file": "city_06.png",
+      "index": 5,
+      "x": 10240,
+      "y": 0,
+      "width": 2048,
+      "height": 1358
+    }
+  ]
+}
